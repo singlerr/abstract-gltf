@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "de.javagl.gltf"
-version = "1.0.1"
+version = "1.0.0"
 
 repositories {
     mavenCentral()
